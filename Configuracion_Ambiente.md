@@ -1,12 +1,12 @@
 ## Índice
 
 1. [Configuración de ambiente](#configuración-de-ambiente)  
-2. [Java Amazon Corretto 17](#instalación-de-java-amazon-coretto-17)  
-3. [Maven 3.9.9](#instalación-de-maven-399)  
-4. [Git](#instalación-de-git)  
-5. [XAMPP](#instalación-de-xampp)  
+2. [Java Amazon Corretto 17](#java-amazon-coretto-17)  
+3. [Maven 3.9.9](#maven-399)  
+4. [Git](#git)  
+5. [XAMPP](#xampp)  
 6. [Visualización de herramientas](#visualización-de-herramientas)  
-7. [Prueba Endpoint](#prueba-de-endpoint-con-spring)  
+7. [Prueba Endpoint](#prueba-endpoint)  
 
 ---
 
