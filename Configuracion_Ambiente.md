@@ -1,4 +1,12 @@
-# Java Amazon Coretto 17
+## Índice
+
+1. [Configuración de ambiente](#configuración-de-ambiente)  
+2. [Instalación de Java Amazon Corretto 17](#instalación-de-java-amazon-coretto-17)  
+3. [Instalación de Maven 3.9.9](#instalación-de-maven-399)  
+4. [Instalación de Git](#instalación-de-git)  
+5. [Instalación de XAMPP](#instalación-de-xampp)  
+6. [Visualización de herramientas](#visualización-de-herramientas)  
+7. [Prueba de Endpoint con Spring](#prueba-de-endpoint-con-spring)  
 
 Para la configuración de ambiente primero enlistamos cuales vamos a usar:
 
