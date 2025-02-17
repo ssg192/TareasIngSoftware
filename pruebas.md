@@ -40,7 +40,8 @@ Cuando lo ejecutamos tendremos la siguiente pantalla, y solo daremos puro siguie
 # Visualización de herramientas
 Estas 4 herramientas las podemos visualizar para confirmar nuestra instalación como se muestra en la siguiente figura.
 ![imagen](https://github.com/user-attachments/assets/8b53cb5f-12dc-4437-9e09-3ba7f3cd68c3)
-Para visualizar xampp que si se cargo podemos ejecutar el siguiente comando 
 ![imagen](https://github.com/user-attachments/assets/66cbb48b-0aba-48bf-97f8-a17806d97afa)
+![imagen](https://github.com/user-attachments/assets/acfca12c-dc46-41cd-add3-c6bd04462aa5)
+
 
 
