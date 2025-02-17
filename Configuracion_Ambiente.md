@@ -45,7 +45,7 @@ Estas 4 herramientas las podemos visualizar para confirmar nuestra instalación 
 ![imagen](https://github.com/user-attachments/assets/acfca12c-dc46-41cd-add3-c6bd04462aa5)
 
 # Prueba Endpoint
-Para la prueba del endpoint debemos de configurar nuestro IDE, en este caso podemos entrar a la pagina de spring initializr ```https://start.spring.io/``` y poder descargar nuestra configuracion de ambiente, en este caso usamos el IDE de IntellijIdea por lo que al crear un nuevo proyecto tenemos la opción de configurar esto,
+Para la prueba del endpoint debemos de configurar nuestro IDE, en este caso podemos entrar a la pagina de spring initializr ```https://start.spring.io/``` y poder descargar nuestra configuracion de ambiente, en este caso usamos el IDE de IntellijIdea por lo que al crear un nuevo proyecto tenemos la opción de configurar esto, de cierta forma detecta el jdk previamente configurado
 ![imagen](https://github.com/user-attachments/assets/e46e051e-1e65-4aa8-9250-5bdaa926b8e1)
 
 despues podemos cofigurar las diferentes dependendencias que usaremos 
