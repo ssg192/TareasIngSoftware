@@ -10,5 +10,37 @@ Para la configuración de ambiente primero enlistamos cuales vamos a usar:
 # Java Amazon Coretto 17
 Para su instalación primero ingresamos al link ``` https://docs.aws.amazon.com/corretto/latest/corretto-17-ug/downloads-list.html ``` 
 ![imagen](https://github.com/user-attachments/assets/7e707755-bca8-4244-822c-289092ced44e)
+ya descargando el jdk dependiendo de nuestro SO,vamos a buscarlo en la carpeta donde se descargo.
+![imagen](https://github.com/user-attachments/assets/ce2f6750-d734-4f75-a8e1-25be116c3be0)
+en este caso como usamos Ubuntu la configuración para este es el siguiente comando:
+![imagen](https://github.com/user-attachments/assets/aade4a06-8e20-4ba1-ace8-e515f6ff11d9)
+De esta manera ya tenemos en nuestro SO jdk 17 de amazon
+# maven 3.9.9
+Para la instalacion de maven hay dos maneras, podemos usar el comando  ```sudo apt-get install maven``` para este caso combiene primero ```sudo apt-get update && upgrade -y ``` para obtener nuevas actualizaciones  o dirigiendonos al link ``` https://maven.apache.org/download.cgi```, ahi podemos elegir cualquiera de las 3 opciones de cierta forma todos los debemos de descomprimir, al descomprimir ya tendremos maven en nuestro SO.
+
+![imagen](https://github.com/user-attachments/assets/3b77395f-9555-4a41-9ad3-cb0ef44a5d04)
+
+# Git
+Para el caso de Git es lo mismo
+![imagen](https://github.com/user-attachments/assets/0c6e7c0d-a3c3-4dfa-b3fe-6012e2d582b0)
+
+o podemos usar el link ```https://git-scm.com/downloads/linux``` y descargar la versión de nuestro SO.
+![imagen](https://github.com/user-attachments/assets/5dc95307-3ac6-44e6-a9b6-1fec5fdcd118)
+
+# Xampp
+En el caso de xampp debemos de ir al ```link https://www.apachefriends.org/es/index.html``` y descargar nuestra versión para nuestro SO
+![imagen](https://github.com/user-attachments/assets/be977a07-f48b-4422-8b46-672d4ba8db83)
+
+Despues, buscamos en la carpeta que se nos guardo el archivo, en este caso es un .run por lo que ejecutamos lo siguiente 
+![imagen](https://github.com/user-attachments/assets/6cfb2023-81b1-4b6f-b4ea-5a93dae0aa6a)
+Cuando lo ejecutamos tendremos la siguiente pantalla, y solo daremos puro siguiente para instalarlo
+![imagen](https://github.com/user-attachments/assets/c4313c3a-4fae-424b-84d7-6485a71d1296)
+
+
+# Visualización de herramientas
+Estas 4 herramientas las podemos visualizar para confirmar nuestra instalación como se muestra en la siguiente figura.
+![imagen](https://github.com/user-attachments/assets/8b53cb5f-12dc-4437-9e09-3ba7f3cd68c3)
+Para visualizar xampp que si se cargo podemos ejecutar el siguiente comando 
+![imagen](https://github.com/user-attachments/assets/66cbb48b-0aba-48bf-97f8-a17806d97afa)
 
 
