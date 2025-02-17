@@ -33,6 +33,7 @@ En el caso de xampp debemos de ir al ```link https://www.apachefriends.org/es/in
 
 Despues, buscamos en la carpeta que se nos guardo el archivo, en este caso es un .run por lo que ejecutamos lo siguiente 
 ![imagen](https://github.com/user-attachments/assets/6cfb2023-81b1-4b6f-b4ea-5a93dae0aa6a)
+
 Cuando lo ejecutamos tendremos la siguiente pantalla, y solo daremos puro siguiente para instalarlo
 ![imagen](https://github.com/user-attachments/assets/c4313c3a-4fae-424b-84d7-6485a71d1296)
 
