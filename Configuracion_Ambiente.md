@@ -21,11 +21,11 @@ Para la instalacion de maven hay dos maneras, podemos usar el comando  ```sudo a
 ![imagen](https://github.com/user-attachments/assets/3b77395f-9555-4a41-9ad3-cb0ef44a5d04)
 
 # Git
-Para el caso de Git es lo mismo
+Para el caso de Git entramos al link ```https://git-scm.com/downloads/linux``` y usamos el comando dependiendo nuestra versión de nuestro SO.
+![imagen](https://github.com/user-attachments/assets/5dc95307-3ac6-44e6-a9b6-1fec5fdcd118)
+
 ![imagen](https://github.com/user-attachments/assets/0c6e7c0d-a3c3-4dfa-b3fe-6012e2d582b0)
 
-o podemos usar el link ```https://git-scm.com/downloads/linux``` y descargar la versión de nuestro SO.
-![imagen](https://github.com/user-attachments/assets/5dc95307-3ac6-44e6-a9b6-1fec5fdcd118)
 
 # Xampp
 En el caso de xampp debemos de ir al ```link https://www.apachefriends.org/es/index.html``` y descargar nuestra versión para nuestro SO
