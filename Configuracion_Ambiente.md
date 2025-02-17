@@ -6,7 +6,9 @@
 4. [Instalación de Git](#instalación-de-git)  
 5. [Instalación de XAMPP](#instalación-de-xampp)  
 6. [Visualización de herramientas](#visualización-de-herramientas)  
-7. [Prueba de Endpoint con Spring](#Prueba Endpoint)  
+7. [Prueba de Endpoint con Spring](#prueba-de-endpoint-con-spring)  
+
+---
 
 Para la configuración de ambiente primero enlistamos cuales vamos a usar:
 
