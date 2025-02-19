@@ -17,7 +17,7 @@ Para la configuración de ambiente primero enlistamos cuales vamos a usar:
 - Git  
 - XAMPP
   
-De esta forma procederemos a buscar las versiones estables dependiendo de nuestro SO.
+De esta forma procederemos a buscar las versiones estables dependiendo de nuestro SO para esta ocasión, todas las herramientas y versiones estables son para Ubuntu 24.04.
 
 
 # Java Amazon Coretto 17
