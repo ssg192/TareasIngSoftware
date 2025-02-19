@@ -16,6 +16,7 @@ Para la configuración de ambiente primero enlistamos cuales vamos a usar:
 - Maven  
 - Git  
 - XAMPP
+  
 De esta forma procederemos a buscar las versiones estables dependiendo de nuestro SO.
 
 
