@@ -10,13 +10,13 @@
 
 ---
 
-Para la configuración de ambiente primero enlistamos cuales vamos a usar:
-
 ## Configuración de ambiente
+Para la configuración de ambiente primero enlistamos cuales vamos a usar:
 - Java  
 - Maven  
 - Git  
-- XAMPP  
+- XAMPP
+De esta forma procederemos a buscar las versiones estables dependiendo de nuestro SO.
 
 
 # Java Amazon Coretto 17
