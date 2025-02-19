@@ -24,8 +24,10 @@ Para su instalación primero ingresamos al link ``` https://docs.aws.amazon.com/
 ![imagen](https://github.com/user-attachments/assets/7e707755-bca8-4244-822c-289092ced44e)
 ya descargando el jdk dependiendo de nuestro SO,vamos a buscarlo en la carpeta donde se descargo.
 ![imagen](https://github.com/user-attachments/assets/ce2f6750-d734-4f75-a8e1-25be116c3be0)
+
 en este caso como usamos Ubuntu la configuración para este es el siguiente comando:
 ![imagen](https://github.com/user-attachments/assets/aade4a06-8e20-4ba1-ace8-e515f6ff11d9)
+
 De esta manera ya tenemos en nuestro SO jdk 17 de amazon
 # maven 3.9.9
 Para la instalacion de maven hay dos maneras, podemos usar el comando  ```sudo apt-get install maven``` para este caso combiene primero ```sudo apt-get update && upgrade -y ``` para obtener nuevas actualizaciones  o dirigiendonos al link ``` https://maven.apache.org/download.cgi```, ahi podemos elegir cualquiera de las 3 opciones de cierta forma todos los debemos de descomprimir, al descomprimir ya tendremos maven en nuestro SO.
@@ -55,6 +57,11 @@ Estas 4 herramientas las podemos visualizar para confirmar nuestra instalación 
 ![imagen](https://github.com/user-attachments/assets/8b53cb5f-12dc-4437-9e09-3ba7f3cd68c3)
 ![imagen](https://github.com/user-attachments/assets/66cbb48b-0aba-48bf-97f8-a17806d97afa)
 ![imagen](https://github.com/user-attachments/assets/acfca12c-dc46-41cd-add3-c6bd04462aa5)
+
+Todas estas dependencias deben de estar agregadas en el bashrc o zshrc 
+![imagen](https://github.com/user-attachments/assets/22c2811d-26c2-461b-a234-a92cff8980f7)
+
+
 
 # Prueba Endpoint
 Para la prueba del endpoint debemos de configurar nuestro IDE, una opcion seria entrar a la pagina de spring initializr ```https://start.spring.io/``` y poder descargar nuestra configuracion de ambiente, en este caso usamos el IDE de IntellijIdea por lo que al crear un nuevo proyecto tenemos la opción de configurar esto, de cierta forma detecta el jdk previamente configurado
