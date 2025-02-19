@@ -59,7 +59,7 @@ Estas 4 herramientas las podemos visualizar para confirmar nuestra instalación 
 ![imagen](https://github.com/user-attachments/assets/66cbb48b-0aba-48bf-97f8-a17806d97afa)
 ![imagen](https://github.com/user-attachments/assets/acfca12c-dc46-41cd-add3-c6bd04462aa5)
 
-Todas estas dependencias deben de estar agregadas en el bashrc o zshrc 
+Todas estas herramientas deben de estar agregadas en el bashrc o zshrc dependiendo tu configuración de terminal
 ![imagen](https://github.com/user-attachments/assets/22c2811d-26c2-461b-a234-a92cff8980f7)
 
 
