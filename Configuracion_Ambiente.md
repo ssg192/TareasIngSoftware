@@ -45,7 +45,7 @@ Para el caso de Git entramos al link ```https://git-scm.com/downloads/linux``` y
 En el caso de xampp debemos de ir al ```link https://www.apachefriends.org/es/index.html``` y descargar nuestra versión para nuestro SO
 ![imagen](https://github.com/user-attachments/assets/be977a07-f48b-4422-8b46-672d4ba8db83)
 
-Despues, buscamos en la carpeta que se nos guardo el archivo, en este caso es un .run por lo que ejecutamos lo siguiente 
+Despues, buscamos en la carpeta que se nos guardo el archivo,de cierta forma debemos de darle permisos para ejecutar ya sea usando ```chmod +x nombre-archivo``` o accediendo a este desde el explorador de archivos y dandole acceso, en este caso ya estaba configurado por lo que ejecutamos lo siguiente 
 ![imagen](https://github.com/user-attachments/assets/6cfb2023-81b1-4b6f-b4ea-5a93dae0aa6a)
 
 Cuando lo ejecutamos tendremos la siguiente pantalla, y solo daremos puro siguiente para instalarlo
