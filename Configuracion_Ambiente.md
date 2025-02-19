@@ -74,7 +74,7 @@ despues podemos cofigurar las diferentes dependendencias que usaremos
 Concluyendo esto, agregaremos en el package que configuramos, un nuevo controller para el uso de nuestro endpoint, de esta forma solo devolveremos un hola Spring 
 ![imagen](https://github.com/user-attachments/assets/15070c5a-88d7-4298-8997-b3165eb487fd)
 
-Para poder visualizarlo solo es entrar en la url y listo 
+Para poder visualizarlo solo es entrar en la url localhost:8080/prueba/saludo y listo 
 ![imagen](https://github.com/user-attachments/assets/6821cd22-1ff1-4c7f-af60-a9850585c803)
 
 
