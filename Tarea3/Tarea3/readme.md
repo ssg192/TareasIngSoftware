@@ -1,5 +1,5 @@
 ## Índice
-1. [Levantar Contenedores](#levantar-contenedores)
+1. [Levantar Dockerfile y Docker-compose](#levantar-contenedores)
 2. [Usuario](#usuario)
 3. [URL](#url)
 4. [Ejecución](#ejecucion)
