@@ -63,6 +63,7 @@ Al ser administrador la principal vista sera nuestro perfil con los datos de nom
 
 # Vista Usuario
 En caso de ser usuario, la vista cambiara a solo ver los datos de perfil, en este caso el menu no tiene alguna interacción pero esta a sujeto a futuras opciones.
+
 ![imagen](https://github.com/user-attachments/assets/ab53815f-3442-443b-9188-bbfbb6f826d0)
 
 ![imagen](https://github.com/user-attachments/assets/208108fa-7214-4e17-a9c6-615390ac08f2)
