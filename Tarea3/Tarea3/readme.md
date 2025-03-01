@@ -15,7 +15,7 @@
 # Levantar Dockerfile y Docker-compose
 Para poder levantar los contenedores primero debes de posicionarte en el nivel en donde se encuentran los archivos, una manera de guiarse es si ves las carpetas ```src y target``` estas en la posición correcta.
 ![imagen](https://github.com/user-attachments/assets/078c9b13-5607-4f78-addb-5ed728813166)
-Primero levantas el dockerfile utilizando ```docker build -t tarea3 .```seguido despues el docker compose solo es  ```docker compose up``` EN CASO DE TENER LOS PUERTOS 8080 Y 3306 OCUPADOS FAVOR DE APAGARLOS 
+Primero levantas el dockerfile utilizando ```docker build -t tarea3 .```seguido despues el docker compose solo es  ```docker compose up``` EN CASO DE TENER LOS PUERTOS 8080 Y 3306 OCUPADOS FAVOR DE LIBERARLOS 
 # Usuario
 Por predeterminado viene un usuario como admin el cual su correo es ```ssandovalgaribay@gmail.com``` y su contraseña: ```Salvador@123```
 # URL
