@@ -77,7 +77,7 @@ Para el segundo que es el docker compose nos va a estar ejecutando el mysql que 
 ![imagen](https://github.com/user-attachments/assets/b3b813cb-2da1-41dc-909a-9bb4762f1fc3)
 
 
-Algunas interacciones como tal en el sistema gracias al ORM de java nos puede dar una pequeña visualización en cada endpoint que nosotros interactivos.
+Algunas interacciones como tal en el sistema gracias al ORM de java nos puede dar una pequeña visualización en cada endpoint que nosotros interactuemos.
 
 ![imagen](https://github.com/user-attachments/assets/dda384c2-0b9e-49c8-be13-32590ee6134e)
 
