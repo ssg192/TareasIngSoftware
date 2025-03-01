@@ -86,7 +86,7 @@ La base de datos como esta en uno de los contenedores podemos visualizar en prim
 ![imagen](https://github.com/user-attachments/assets/d80b120a-ff21-4bc9-8ccc-f71081b433ef)
 
 # Pruebas automaticas
-Como tal para en esta ocasión evitarnos el uso de postman o aplicar curl's se uso swagger-ui el cual mediante los ``@restcontrollers`` nos puede dar una visualizacion asi como asignarles colores a cada uno.
+Como tal para en esta ocasión evitarnos el uso de postman o aplicar curl's se uso swagger-ui el cual mediante los ``@restcontrollers`` nos puede dar una visualizacion a cada uno.
 
 ![imagen](https://github.com/user-attachments/assets/a1065487-4aed-49d1-a2e3-cb874ab67846)
 
