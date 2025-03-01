@@ -87,7 +87,7 @@ La base de datos como esta en uno de los contenedores podemos visualizar en prim
 ![imagen](https://github.com/user-attachments/assets/d80b120a-ff21-4bc9-8ccc-f71081b433ef)
 
 # Pruebas automáticas
-Como tal para en esta ocasión evitarnos el uso de postman o aplicar curl's se uso swagger-ui el cual mediante los ``@restcontrollers`` nos puede dar una visualizacion a cada uno.
+Como tal para esta ocasión evitarnos el uso de postman o aplicar curl's se uso swagger-ui el cual mediante los ``@restcontrollers`` nos puede dar una visualizacion a cada uno.
 
 ![imagen](https://github.com/user-attachments/assets/a1065487-4aed-49d1-a2e3-cb874ab67846)
 
@@ -117,6 +117,6 @@ Al ser administrador se nos habilitan los demas metodos que podemos interactuar 
 
 # Renderización en Quarkus
 
-El ultimo de renderización como tal al quarkus no tener una compatibilidad con thymeleaf tiene su propia dependencia el cual puede renderizar los html's el cual se deben de usar como si fueran controladores pero retornando el html creado.
+Como tal quarkus al no tener una compatibilidad con thymeleaf tiene su propia dependencia el cual puede renderizar los html's el cual se deben de usar como si fueran controladores pero retornando el html creado.
 
 ![imagen](https://github.com/user-attachments/assets/9e9458e8-bf05-40e9-b423-a8f49adaa0ee)
