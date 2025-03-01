@@ -115,6 +115,8 @@ Al ser administrador se nos habilitan los demas metodos que podemos interactuar 
 
 ![imagen](https://github.com/user-attachments/assets/a7c9a45f-becb-4d6b-aee4-0a5b53c82fb5)
 
+# Renderización Quarkus
+
 El ultimo de renderización como tal al quarkus no tener una compatibilidad con thymeleaf tiene su propia dependencia el cual puede renderizar los html's el cual se deben de usar como si fueran controladores pero retornando el html creado.
 
 ![imagen](https://github.com/user-attachments/assets/9e9458e8-bf05-40e9-b423-a8f49adaa0ee)
