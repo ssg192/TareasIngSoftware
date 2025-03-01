@@ -68,7 +68,7 @@ En caso de ser usuario, la vista cambiara a solo ver los datos de perfil, en est
 
 ![imagen](https://github.com/user-attachments/assets/208108fa-7214-4e17-a9c6-615390ac08f2)
 
-# Vista docker
+# Vista Docker
 Cuando ejecutamos el Dockerfile como tal nos va a descargar el jdk 17 y mapear el jar a las carpetas deployment del mismo docker 
 ![imagen](https://github.com/user-attachments/assets/7684b44d-e1f6-4489-a91e-a2a4fdfdaa18)
 
@@ -81,12 +81,12 @@ Algunas interacciones como tal en el sistema gracias al ORM de java nos puede vi
 
 ![imagen](https://github.com/user-attachments/assets/dda384c2-0b9e-49c8-be13-32590ee6134e)
 
-# Pruebas conexión 
+# Pruebas de conexión 
 La base de datos como esta en uno de los contenedores podemos visualizar en primera instancia poniendo el comando ```docker ps``` asi listandonos los contenedores que tenemos ejecutados, para ingresar a ellos basta poniendo ```docker exec -it id-contenedor mysql -u root -p``` este ultimo argumento en este caso es para entrar directo a mysql porque podriamos ingresar usando lo mismo pero al final poniendo bash para el uso del kernel y acceso de las carpetas.
 
 ![imagen](https://github.com/user-attachments/assets/d80b120a-ff21-4bc9-8ccc-f71081b433ef)
 
-# Pruebas automaticas
+# Pruebas automáticas
 Como tal para en esta ocasión evitarnos el uso de postman o aplicar curl's se uso swagger-ui el cual mediante los ``@restcontrollers`` nos puede dar una visualizacion a cada uno.
 
 ![imagen](https://github.com/user-attachments/assets/a1065487-4aed-49d1-a2e3-cb874ab67846)
@@ -115,7 +115,7 @@ Al ser administrador se nos habilitan los demas metodos que podemos interactuar 
 
 ![imagen](https://github.com/user-attachments/assets/a7c9a45f-becb-4d6b-aee4-0a5b53c82fb5)
 
-# Renderización Quarkus
+# Renderización en Quarkus
 
 El ultimo de renderización como tal al quarkus no tener una compatibilidad con thymeleaf tiene su propia dependencia el cual puede renderizar los html's el cual se deben de usar como si fueran controladores pero retornando el html creado.
 
