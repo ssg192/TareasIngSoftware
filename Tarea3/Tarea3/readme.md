@@ -41,13 +41,22 @@ Al ser administrador la principal vista sera nuestro perfil con los datos de nom
 
 ![imagen](https://github.com/user-attachments/assets/474bd453-245b-4192-ba8c-8f35d57ce6b0)
 
+![imagen](https://github.com/user-attachments/assets/25912c89-fc07-4a08-9ccc-ebb39b73a4d7)
+
+
 ![imagen](https://github.com/user-attachments/assets/48b1088d-0980-4d0b-8bce-011b59615c56)
+
+
+![imagen](https://github.com/user-attachments/assets/01c40043-f057-4a0b-9d1f-3a96f54fb825)
 
 
 ![imagen](https://github.com/user-attachments/assets/27a8a1c1-1606-42e3-8a55-3f2d0d14ba5c)
 
 
 ![imagen](https://github.com/user-attachments/assets/c12b64b7-f4c5-4d88-9dcd-5fcc0a998697)
+
+
+![imagen](https://github.com/user-attachments/assets/0b093305-d343-4ae6-9b5d-aa80a7d874fd)
 
 
 
