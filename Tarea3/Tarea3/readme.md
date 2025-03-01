@@ -37,9 +37,20 @@ De primera entrada cuando entremos a la url lo primero que veremos sera un login
 Al ser administrador la principal vista sera nuestro perfil con los datos de nombre y correo teniendo un menu del lado izquierdo el cual podemos cerrar sesion, registrar un usuario y visualizar los perfiles registrados.
 ![imagen](https://github.com/user-attachments/assets/446b15b0-6633-4c57-82b4-12931ae1faea)
 
-![imagen](https://github.com/user-attachments/assets/837b3147-68b2-400f-8291-ffb86f67b01e)
+![imagen](https://github.com/user-attachments/assets/a83c5bc4-8d34-4950-9b63-df6af08ce7d6)
 
-![imagen](https://github.com/user-attachments/assets/377b55ad-56b5-4e0d-a2d0-e8b326872745)
+![imagen](https://github.com/user-attachments/assets/474bd453-245b-4192-ba8c-8f35d57ce6b0)
+
+![imagen](https://github.com/user-attachments/assets/48b1088d-0980-4d0b-8bce-011b59615c56)
+
+
+![imagen](https://github.com/user-attachments/assets/27a8a1c1-1606-42e3-8a55-3f2d0d14ba5c)
+
+
+![imagen](https://github.com/user-attachments/assets/c12b64b7-f4c5-4d88-9dcd-5fcc0a998697)
+
+
+
 
 # Vista Usuario
 En caso de ser usuario, la vista cambiara a solo ver los datos de perfil, en este caso el menu no tiene alguna interacción pero esta a sujeto a futuras opciones.
