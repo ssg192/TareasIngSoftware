@@ -4,4 +4,4 @@ y el docker compose solo es docker ```compose up```
 # Usuario
 Por predeterminado viene un usuario como admin el cual su correo es ```ssandovalgaribay@gmail.com``` y su contraseña: ```Salvador@123```
 # URL
-la url para este caso es http://localhost:8080/inicio/login
+la url para este caso es http://localhost:8080/inicio/login#
