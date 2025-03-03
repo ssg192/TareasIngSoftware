@@ -2,9 +2,9 @@
 
 ## Integrantes
 
-1. Sandoval garibay Salvador 2022630151
+-- Sandoval garibay Salvador 2022630151
 
-2. Redondo González Omar 2022630670
+-- Redondo González Omar 2022630670
 
 3. Hernández Gutiérrez Gerardo 2021630013
 
