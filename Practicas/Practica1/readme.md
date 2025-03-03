@@ -1,4 +1,4 @@
-## Equipo: Error capa 8
+# Equipo: Error capa 8
 
 ## Integrantes
 
