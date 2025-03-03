@@ -1,13 +1,14 @@
 # Equipo: Error Capa 8 
 
 ## Integrantes
--Sandoval garibay salvador 2022630151
 
--Redondo González Omar 2022630670
+1. Sandoval garibay Salvador 2022630151
 
--Hernández Gutiérrez Gerardo 2021630013
+2. Redondo González Omar 2022630670
 
--Ayala Chacón David 2022630495
+3. Hernández Gutiérrez Gerardo 2021630013
+
+4. Ayala Chacón David 2022630495
 
 
 
