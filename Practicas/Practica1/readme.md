@@ -1,3 +1,13 @@
+## Equipo: Error capa 8
+
+## Integrantes
+
+- Sandoval Garibay Salvador (2022630151)
+- Redondo González Omar (2022630670)
+- Hernández Gutiérrez Gerardo (2021630013)
+- Ayala Chacón David (2022630495)
+
+
 ## Índice
 1. [Levantar Dockerfile y Docker-compose](#levantar-dockerfile-y-docker-compose)
 2. [Usuario](#usuario)
