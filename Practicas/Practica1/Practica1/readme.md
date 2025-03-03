@@ -23,24 +23,24 @@ la url para este caso es http://localhost:8080/inicio/login#
 # Ejecución 
 De primera entrada cuando entremos a la url lo primero que veremos sera un login en donde tenemos dos opciones iniciar sesión o registrar una persona, en cierta forma en el registro se debe de poner la contraseña con mayusculas, minusculas y un caracter especial.
 
-![img_5.png](img_5.png)
+![img_5.png](images/img_5.png)
 
-![img_6.png](img_6.png)
+![img_6.png](images/img_6.png)
 
  # Vista Administrador
 
 Al ser administrador la principal vista sera nuestro perfil con los datos de nombre y correo teniendo un menu del lado izquierdo el cual podemos cerrar sesion, registrar un usuario y visualizar los perfiles registrados.
-![img_5.png](img_5.png)
+![img_5.png](images/img_5.png)
 
 ![img.png](img.png)
 
-![img_1.png](img_1.png)
+![img_1.png](images/img_1.png)
 
-![img_2.png](img_2.png)
+![img_2.png](images/img_2.png)
 
-![img_3.png](img_3.png)
+![img_3.png](images/img_3.png)
 
-![img_4.png](img_4.png)
+![img_4.png](images/img_4.png)
 
 ![imagen](https://github.com/user-attachments/assets/c12b64b7-f4c5-4d88-9dcd-5fcc0a998697)
 
@@ -52,8 +52,8 @@ Al ser administrador la principal vista sera nuestro perfil con los datos de nom
 # Vista Usuario
 En caso de ser usuario, la vista cambiara a solo ver los datos de perfil, en este caso el menu no tiene alguna interacción a excepción de cerrar sesión pero  lo de mas esta a sujeto a futuras opciones.
 
-![img_7.png](img_7.png)
-![img_8.png](img_8.png)
+![img_7.png](images/img_7.png)
+![img_8.png](images/img_8.png)
 
 
 # Vista Docker
