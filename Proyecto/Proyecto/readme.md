@@ -129,4 +129,4 @@ Como tal quarkus al no tener una compatibilidad con thymeleaf tiene su propia de
 
 ![imagen](https://github.com/user-attachments/assets/9e9458e8-bf05-40e9-b423-a8f49adaa0ee)
 
-# Documentación-técnica [https://github.com/ssg192/TareasIngSoftware/blob/6595754ac17f9455666cb28bba5ded5834801847/Tarea3/Tarea3/SB-Integrado.pdf]
+# Documentación-técnica[#https://github.com/ssg192/TareasIngSoftware/blob/6595754ac17f9455666cb28bba5ded5834801847/Tarea3/Tarea3/SB-Integrado.pdf]
