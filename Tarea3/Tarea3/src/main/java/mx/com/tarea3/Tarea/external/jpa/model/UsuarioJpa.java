@@ -5,6 +5,7 @@ import mx.com.tarea3.Tarea.core.entity.Rol;
 import mx.com.tarea3.Tarea.core.entity.Usuario;
 
 import javax.persistence.*;
+import java.math.BigInteger;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.stream.Collectors;
@@ -21,7 +22,7 @@ public class UsuarioJpa {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     @Column(name= "id")
-    private Integer Id;
+    private Integer id;
     @Column(name= "nombre")
     private String nombre;
     @Column(name= "email")
@@ -39,7 +40,7 @@ public class UsuarioJpa {
 
     public static UsuarioJpa fromEntity(Usuario usuario) {
         return UsuarioJpa.builder()
-                .Id(usuario.getId())
+                .id(usuario.getId())
                 .nombre(usuario.getNombre())
                 .email(usuario.getEmail())
                 .password(usuario.getPassword())
@@ -50,7 +51,7 @@ public class UsuarioJpa {
 
     public Usuario toEntity(){
         return Usuario.builder()
-                .id(Id)
+                .id(id)
                 .nombre(this.nombre)
                 .email(this.email)
                 .password(this.password)

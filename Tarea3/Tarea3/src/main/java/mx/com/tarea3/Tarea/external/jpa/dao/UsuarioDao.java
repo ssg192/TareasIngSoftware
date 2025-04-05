@@ -10,6 +10,7 @@ import mx.com.tarea3.Tarea.external.rest.dto.UsuarioDto;
 import javax.enterprise.context.ApplicationScoped;
 import javax.inject.Inject;
 import javax.persistence.EntityManager;
+import java.math.BigInteger;
 import java.util.List;
 import java.util.Optional;
 import java.util.stream.Collectors;
@@ -24,7 +25,7 @@ public class UsuarioDao implements UsuarioRepository {
     @Inject
     EntityManager entityManager;
 
-    private static final String QUERY_FIND_USUARIO_ID="select usuarios.nombre, usuarios.email, usuarios.password  from usuarios where usuarios.id = :id";
+    private static final String QUERY_FIND_USUARIO_ID="select usuarios.nombre, usuarios.email, usuarios.password, usuarios.id  from usuarios where usuarios.id = :id";
             private static String PARAM= "id";
 
     @Override
@@ -68,6 +69,7 @@ public class UsuarioDao implements UsuarioRepository {
                 .nombre((String) result[0])
                 .email((String) result[1])
                 .password((String) result[2])
+                .id((Integer) result[3])
                 .build();
 
         return Optional.of(usuario);

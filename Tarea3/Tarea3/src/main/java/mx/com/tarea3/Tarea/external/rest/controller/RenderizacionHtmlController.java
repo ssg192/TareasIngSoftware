@@ -27,6 +27,8 @@ public class RenderizacionHtmlController {
     Template lista;
     @Inject
     Template registrar;
+    @Inject
+    Template busquedaLibros;
 
     @Inject
     UsuarioService usuarioService;
@@ -67,4 +69,10 @@ public class RenderizacionHtmlController {
         return registrar.instance();
     }
 
+    @GET
+    @Path("/busqueda")
+    @Produces(MediaType.TEXT_HTML)
+    public TemplateInstance getBusqueda() {
+        return busquedaLibros.instance();
+    }
 }

@@ -72,7 +72,7 @@
             border-radius: 15px;
             box-shadow: 0 6px 18px rgba(0, 0, 0, 0.3);
             width: 100%;
-            max-width: 550px;
+            max-width: 800px;
             background-color: #1e1e1e;
         }
 
@@ -159,6 +159,10 @@
                 <td><strong>Email:</strong></td>
                 <td><span id="email">Cargando...</span></td>
             </tr>
+            <tr>
+                <td><strong>Password:</strong></td>
+                <td><span id="password">Cargando...</span></td>
+            </tr>
         </table>
     </div>
 </div>
@@ -194,6 +198,8 @@
             .then(usuario => {
                 document.getElementById("nombre").textContent = usuario.nombre;
                 document.getElementById("email").textContent = usuario.email;
+                document.getElementById("password").textContent = usuario.password;
+
             })
             .catch(error => {
                 console.error("Error:", error);

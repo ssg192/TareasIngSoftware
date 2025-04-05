@@ -1,14 +1,14 @@
 package mx.com.tarea3.Tarea.core.entity;
 
-import lombok.Builder;
-import lombok.Getter;
-import lombok.Setter;
+import lombok.*;
 
 import java.util.List;
 
 @Builder
 @Getter
 @Setter
+@AllArgsConstructor
+@NoArgsConstructor
 public class Usuario {
    private Integer id;
    private String nombre;

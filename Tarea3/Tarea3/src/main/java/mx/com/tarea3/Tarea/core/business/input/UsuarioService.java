@@ -18,4 +18,5 @@ public interface UsuarioService {
     Either<ErrorCodesEnum, String> inicioSesion(Usuario entity) throws IOException, InvalidKeySpecException, NoSuchAlgorithmException;
     Optional<Usuario> getUsuarioById(Integer id);
 
+
 }

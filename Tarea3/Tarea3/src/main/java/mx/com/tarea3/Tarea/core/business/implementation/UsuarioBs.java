@@ -89,6 +89,8 @@ public class UsuarioBs implements UsuarioService {
         return result;
     }
 
+
+
     @Override
     public List<Usuario> listarUsuarios() {
         return usuarioRepository.ListarUsuarios();
@@ -128,7 +130,7 @@ public class UsuarioBs implements UsuarioService {
 
     public String generarTokenJWT(Usuario usuario) throws IOException, InvalidKeySpecException, NoSuchAlgorithmException {
 
-        final String PRIVATE_KEY_PATH = "/deployments/config/privateKey.pem";
+        final String PRIVATE_KEY_PATH = "src/main/resources/privateKey.pem";
         String privateKeyContent = new String(Files.readAllBytes(Paths.get(PRIVATE_KEY_PATH)),StandardCharsets.UTF_8)
                 .replace("-----BEGIN PRIVATE KEY-----", "")
                 .replace("-----END PRIVATE KEY-----", "")

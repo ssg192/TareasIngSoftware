@@ -8,7 +8,7 @@ USE tarea2;
 
 -- Crear la tabla de usuarios
 CREATE TABLE usuarios (
-    id BIGINT PRIMARY KEY AUTO_INCREMENT,
+    id INT PRIMARY KEY AUTO_INCREMENT,
     nombre VARCHAR(64) NOT NULL,
     email VARCHAR(64) NOT NULL UNIQUE,
     password VARCHAR(128) NOT NULL
@@ -16,14 +16,14 @@ CREATE TABLE usuarios (
 
 -- Crear la tabla de roles
 CREATE TABLE roles (
-    id BIGINT PRIMARY KEY AUTO_INCREMENT,
+    id INT PRIMARY KEY AUTO_INCREMENT,
     nombre VARCHAR(64) NOT NULL UNIQUE
 );
 
 -- Crear la tabla intermedia para la relación muchos a muchos entre usuarios y roles
 CREATE TABLE usuario_roles (
-    usuario_id BIGINT,
-    rol_id BIGINT,
+    usuario_id INT,
+    rol_id INT,
     PRIMARY KEY (usuario_id, rol_id),
     FOREIGN KEY (usuario_id) REFERENCES usuarios(id),
     FOREIGN KEY (rol_id) REFERENCES roles(id)
