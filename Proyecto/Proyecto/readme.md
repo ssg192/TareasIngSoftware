@@ -1,4 +1,4 @@
-# Tarea 3 y Practica 1 parte individual
+# Practica 2 parte individual
 
 
 ## Índice
@@ -12,6 +12,7 @@
 8. [Pruebas de Conexión](#pruebas-de-conexión)
 9. [Pruebas Automáticas](#pruebas-automáticas)
 10. [Renderización en Quarkus](#renderización-en-quarkus)
+11. [Documentación técnica](#documentacion-tecnica)
 
 
 
@@ -62,14 +63,18 @@ Al ser administrador la principal vista sera nuestro perfil con los datos de nom
 ![imagen](https://github.com/user-attachments/assets/0b093305-d343-4ae6-9b5d-aa80a7d874fd)
 
 
-
-
 # Vista Usuario
-En caso de ser usuario, la vista cambiara a solo ver los datos de perfil, en este caso el menu no tiene alguna interacción a excepción de cerrar sesión pero  lo de mas esta a sujeto a futuras opciones.
+En caso de ser usuario, la vista cambiara a solo ver los datos de perfil, en este caso el menu tiene la interaccion para cambiar temas y poder buscar libros sea por autor o por el titulo.
 
 ![imagen](https://github.com/user-attachments/assets/ab53815f-3442-443b-9188-bbfbb6f826d0)
 
 ![imagen](https://github.com/user-attachments/assets/208108fa-7214-4e17-a9c6-615390ac08f2)
+
+![imagen](https://github.com/user-attachments/assets/6e086af5-3b0c-455d-b12b-78737933d596)
+
+![imagen](https://github.com/user-attachments/assets/d0fb0c34-c936-42f1-9781-7e32f8888a36)
+
+
 
 # Vista Docker
 Cuando ejecutamos el Dockerfile como tal nos va a descargar el jdk 17 y mapear el jar a las carpetas deployment del mismo docker 
@@ -123,3 +128,5 @@ Al ser administrador se nos habilitan los demas metodos que podemos interactuar 
 Como tal quarkus al no tener una compatibilidad con thymeleaf tiene su propia dependencia el cual puede renderizar los html's el cual se deben de usar como si fueran controladores pero retornando el html creado.
 
 ![imagen](https://github.com/user-attachments/assets/9e9458e8-bf05-40e9-b423-a8f49adaa0ee)
+
+# Documentación-técnica [https://github.com/ssg192/TareasIngSoftware/blob/6595754ac17f9455666cb28bba5ded5834801847/Tarea3/Tarea3/SB-Integrado.pdf]
