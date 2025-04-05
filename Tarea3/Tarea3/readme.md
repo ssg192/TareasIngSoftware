@@ -22,7 +22,7 @@ Primero levantas el dockerfile utilizando ```docker build -t tarea3 .```seguido 
 # Usuario
 Por predeterminado viene un usuario como admin el cual su correo es ```ssandovalgaribay@gmail.com``` y su contraseña: ```Salvador@123```
 # URL
-la url para este caso es http://localhost:8080/inicio/login#
+la url para este caso es http://localhost:8080/inicio/login#  para la visualización y prueba de endpoints en http://localhost:8080/q/swagger-ui/#/
 # Ejecución 
 De primera entrada cuando entremos a la url lo primero que veremos sera un login en donde tenemos dos opciones iniciar sesión o registrar una persona, en cierta forma en el registro se debe de poner la contraseña con mayusculas, minusculas y un caracter especial.
 
